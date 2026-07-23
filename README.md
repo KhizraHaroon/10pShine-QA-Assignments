@@ -1,0 +1,1 @@
+# 10pShine-QA-Assignments
