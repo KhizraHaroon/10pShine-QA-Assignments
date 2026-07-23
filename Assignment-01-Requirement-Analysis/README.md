@@ -1,7 +1,6 @@
 # Assignment 01 - Requirement Analysis
 
-## Project
-Online Bookstore System
+## Project: Online Bookstore System
 
 ## Contents
 - Requirement Understanding
@@ -12,6 +11,6 @@ Online Bookstore System
 - Sprint Planning
 
 Prepared by:
-Khizra Haroon
+**Khizra Haroon**
 
 As part of the **QA (Manual + Automation) Internship**.
