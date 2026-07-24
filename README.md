@@ -1,7 +1,16 @@
-# QA Internship Assignments
+# Assignment 01 - Requirement Analysis
 
-This repository contains all assignments completed as part of the QA (Manual + Automation) track in the 10Pearls Shine Internship Program.
+## Project: Online Bookstore System
 
-## Assignments
+## Contents
+- Requirement Understanding
+- Functional Requirements
+- Non-Functional Requirements
+- User Stories
+- Acceptance Criteria (Gherkin Syntax)
+- Sprint Planning
 
-### Assignment 01 - Requirement Analysis
+Prepared by:
+**Khizra Haroon**
+
+As part of the **QA (Manual + Automation) Internship**.
